@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.kamidev</groupId>
-    <artifactId>spring-ai-intro</artifactId>
+    <artifactId>spring-ai</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-ai-intro</name>
-    <description>spring-ai-intro</description>
+    <name>spring-ai</name>
+    <description>spring-ai</description>
     <url/>
     <licenses>
         <license/>

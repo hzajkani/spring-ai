@@ -1,10 +1,10 @@
-package com.kamidev.springaiintro;
+package com.kamidev.springai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringAiIntroApplicationTests {
+class SpringAiApplicationTests {
 
     @Test
     void contextLoads() {
